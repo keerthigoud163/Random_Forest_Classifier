@@ -3,19 +3,19 @@
 # Project Title:
 Classifer the Random_Forest algorithm using skit.learn classifier("RndomForestClassifier") for iris.csv.And predict the data how many species are interconnect with nth Decision Tree node.
 
-#Task 1:
+# Task 1:
 Import the RandomForestClassifier by using sklearn.ensemble library.
-#Task 3:
+# Task 3:
 Preprocess the data using skitlearn graphics library.
-#Task 5:
+# Task 5:
 Load iris.csv dataset for data as a input variable and target as the functionable output variable.
-#Task 6:
+# Task 6:
 Pick the train and test data using argumental library train_test_split.
-#Task 7:
+# Task 7:
 Select the estimators as a nth Decision tree.
-#Task 8:
+# Task 8:
 Use a RandomForestClassifier and fit your model.
-#Task 9:
+# Task 9:
 Find out your accuracy model
 
 # Accuracy
